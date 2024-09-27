@@ -1,0 +1,23 @@
+*{
+    background-color: black;
+    color: aqua;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    color:white;
+    text-align:center;
+}
+P{
+    text-align: justify;
+    color:cornsilk;
+}
+h3{
+    text-align: right;
+}
+ul,ol{
+    font-size: xx-large;
+    color: yellowgreen
+}
+li{
+    font-size: medium;
+}
